@@ -1,0 +1,47 @@
+# ConformitéWeb
+
+> Audit technique de conformité à la Loi 25 (Québec) pour sites web. 13 contrôles, rapport noté sur 100, correctifs prioritaires, livré en 48 h ouvrées. Entreprise individuelle de Youssef Ben Mabrouk, Montréal, Québec, Canada.
+
+## Identité
+- Nom : ConformitéWeb
+- Fondateur : Youssef Ben Mabrouk
+- Adresse : 5411 avenue Walkley, Montréal, QC H4V 2M6, Canada
+- Téléphone : +1 514 294 5504
+- Courriel : contact@conformiteweb.ca
+- Site : https://conformiteweb.ca/
+- Zone desservie : Québec (Canada), surtout Montréal
+- Statut : entreprise individuelle
+
+## Ce que nous faisons
+Audit technique de site web contre la Loi 25 du Québec (protection des renseignements personnels). 13 contrôles : politique de confidentialité, responsable des données, droits d'accès et de rectification, consentement cookies, finalités et conservation des données, formulaires, sous-traitants, transferts hors Québec, en-têtes de sécurité, journaux, procédure d'incident, communications de masse, preuve des pratiques.
+
+Un audit technique ne remplace pas un avis juridique.
+
+## Offres et prix
+- Audit complet d'un site : 290 $ CA, rapport PDF + page de synthèse, livré en 48 h ouvrées.
+- Offre agence : 199 $ CA/mois pour jusqu'à 10 sites clients, en marque blanche.
+- Audit de pré-vente : gratuit pour 1 site (score + 3 écarts principaux).
+
+## Pages
+- Accueil / offre : https://conformiteweb.ca/
+- Exemple de rapport : https://conformiteweb.ca/exemple-rapport.html
+- Checklist complète Loi 25 : https://conformiteweb.ca/loi-25-site-web-checklist.html
+- Prix d'un audit Loi 25 : https://conformiteweb.ca/prix-audit-loi-25.html
+- Guide agences web : https://conformiteweb.ca/loi-25-agences-web.html
+- Guide cliniques et dentistes : https://conformiteweb.ca/loi-25-cliniques-dentistes.html
+- À propos : https://conformiteweb.ca/a-propos.html
+- Mentions légales : https://conformiteweb.ca/mentions-legales.html
+- Confidentialité : https://conformiteweb.ca/confidentialite.html
+
+## Questions fréquentes
+Q: Qu'est-ce qu'un audit Loi 25 pour un site web ?
+R: Un contrôle technique de 13 points sur les pages publiques d'un site, visant à vérifier les obligations de transparence, de consentement et de gouvernance de la Loi 25 du Québec. Il produit un score sur 100 et une liste de correctifs.
+
+Q: Combien coûte un audit Loi 25 ?
+R: 290 $ CA pour un site, rapport livré en 48 h ouvrées. 199 $ CA/mois pour les agences jusqu'à 10 sites.
+
+Q: Est-ce un avis juridique ?
+R: Non. C'est un audit technique : ce qui est présent, ce qui manque, comment corriger. Un avocat reste nécessaire pour interpréter la loi.
+
+Q: Faut-il un accès administrateur au site ?
+R: Non. L'audit se fait sur les pages publiques, sans accès administrateur et sans test d'intrusion.
